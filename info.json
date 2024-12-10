@@ -1,0 +1,15 @@
+{
+    "name": "Roll plugin",
+    "description": "This plugin is for roll dices.",
+    "authors": [
+        "Vicente Higino"
+    ],
+    "homepage": "https://github.com/Chatterino/Chatterino2",
+    "tags": [
+        "gamba",
+        "dices"
+    ],
+    "version": "1.0.0",
+    "license": "MIT",
+    "permissions": []
+}
